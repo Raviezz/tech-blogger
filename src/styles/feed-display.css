@@ -1,0 +1,10 @@
+.view-more {
+    transition-duration: 0.4s;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #38ef7d;
+    min-width: 75px;
+    min-height: 30px;
+    text-decoration: none;
+    color: #38ef7d;
+}

@@ -1,0 +1,25 @@
+.outlinedButtonLink {
+    transition-duration: 0.4s;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #38ef7d;
+    min-width: 100px;
+    min-height: 50px;
+    text-decoration: none;
+    color: #38ef7d;
+    margin: 10px;
+}
+
+.outlinedButtonLink:hover {
+    transition-duration: 0.4s;
+    color: white;
+    text-decoration: none;
+    border: none;
+    background-image: linear-gradient(to bottom left, #38ef7d, #11998e);
+}
+
+.outlinedButtonLink:active {
+    outline: none;
+    background-color: transparent;
+    background-image: linear-gradient(to bottom left, #38ef7d, #11998e);
+}
