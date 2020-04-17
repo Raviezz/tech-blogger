@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tech-blogger/static/css/main.796edb9e.chunk.css",
+    "main.js": "/tech-blogger/static/js/main.27cb0162.chunk.js",
+    "main.js.map": "/tech-blogger/static/js/main.27cb0162.chunk.js.map",
+    "runtime-main.js": "/tech-blogger/static/js/runtime-main.f18cf033.js",
+    "runtime-main.js.map": "/tech-blogger/static/js/runtime-main.f18cf033.js.map",
+    "static/css/2.4cac4a78.chunk.css": "/tech-blogger/static/css/2.4cac4a78.chunk.css",
+    "static/js/2.c7c0ffcc.chunk.js": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js",
+    "static/js/2.c7c0ffcc.chunk.js.map": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.map",
+    "index.html": "/tech-blogger/index.html",
+    "precache-manifest.52ea1121680cc1cd03d8947d43074946.js": "/tech-blogger/precache-manifest.52ea1121680cc1cd03d8947d43074946.js",
+    "service-worker.js": "/tech-blogger/service-worker.js",
+    "static/css/2.4cac4a78.chunk.css.map": "/tech-blogger/static/css/2.4cac4a78.chunk.css.map",
+    "static/css/main.796edb9e.chunk.css.map": "/tech-blogger/static/css/main.796edb9e.chunk.css.map",
+    "static/js/2.c7c0ffcc.chunk.js.LICENSE.txt": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18cf033.js",
+    "static/css/2.4cac4a78.chunk.css",
+    "static/js/2.c7c0ffcc.chunk.js",
+    "static/css/main.796edb9e.chunk.css",
+    "static/js/main.27cb0162.chunk.js"
+  ]
+}
