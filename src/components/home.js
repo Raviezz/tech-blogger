@@ -68,8 +68,9 @@ export default class HomePage extends React.Component {
             <Content style={contentStyle}>
             <Router>
               <Switch>
-              <Route path='/' exact component={DisplayFeeds}  />
-              <Route path='/feed/:id'  component={Feed}  />
+              <Route path='/feed/:id' exact component={Feed}  />
+              <Route path='/'  component={DisplayFeeds}  />
+             
               </Switch>
               </Router>
             </Content>
