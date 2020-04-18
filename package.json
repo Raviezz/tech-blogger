@@ -1,6 +1,7 @@
 {
   "name": "blogger",
   "version": "0.1.0",
+  "homepage":"https://raviezz.github.io/tech-blogger/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.10",
@@ -20,6 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
