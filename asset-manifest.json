@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tech-blogger/static/css/main.796edb9e.chunk.css",
-    "main.js": "/tech-blogger/static/js/main.d18f1e13.chunk.js",
-    "main.js.map": "/tech-blogger/static/js/main.d18f1e13.chunk.js.map",
+    "main.js": "/tech-blogger/static/js/main.bfd2fbf2.chunk.js",
+    "main.js.map": "/tech-blogger/static/js/main.bfd2fbf2.chunk.js.map",
     "runtime-main.js": "/tech-blogger/static/js/runtime-main.f18cf033.js",
     "runtime-main.js.map": "/tech-blogger/static/js/runtime-main.f18cf033.js.map",
     "static/css/2.4cac4a78.chunk.css": "/tech-blogger/static/css/2.4cac4a78.chunk.css",
     "static/js/2.c7c0ffcc.chunk.js": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js",
     "static/js/2.c7c0ffcc.chunk.js.map": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.map",
     "index.html": "/tech-blogger/index.html",
-    "precache-manifest.711b30e9ba85fa62fd2a5cf15bcf3c8f.js": "/tech-blogger/precache-manifest.711b30e9ba85fa62fd2a5cf15bcf3c8f.js",
+    "precache-manifest.6ca2cd211cc9902d6eda267f5ba4bd8a.js": "/tech-blogger/precache-manifest.6ca2cd211cc9902d6eda267f5ba4bd8a.js",
     "service-worker.js": "/tech-blogger/service-worker.js",
     "static/css/2.4cac4a78.chunk.css.map": "/tech-blogger/static/css/2.4cac4a78.chunk.css.map",
     "static/css/main.796edb9e.chunk.css.map": "/tech-blogger/static/css/main.796edb9e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4cac4a78.chunk.css",
     "static/js/2.c7c0ffcc.chunk.js",
     "static/css/main.796edb9e.chunk.css",
-    "static/js/main.d18f1e13.chunk.js"
+    "static/js/main.bfd2fbf2.chunk.js"
   ]
 }

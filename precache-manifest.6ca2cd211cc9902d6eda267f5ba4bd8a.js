@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81607938ce6feab59bba8a89a1a38deb",
+    "revision": "d5520530143645e984fb1aa424d996e9",
     "url": "/tech-blogger/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tech-blogger/static/css/2.4cac4a78.chunk.css"
   },
   {
-    "revision": "46698e7fa3136ecfee9a",
+    "revision": "3bc3917690b1e591e9de",
     "url": "/tech-blogger/static/css/main.796edb9e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46698e7fa3136ecfee9a",
-    "url": "/tech-blogger/static/js/main.d18f1e13.chunk.js"
+    "revision": "3bc3917690b1e591e9de",
+    "url": "/tech-blogger/static/js/main.bfd2fbf2.chunk.js"
   },
   {
     "revision": "863847df7a5f58a0e4f2",
