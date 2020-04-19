@@ -43,6 +43,8 @@ export default class LayoutTextFields extends React.Component {
                 shrink: true,
               }}
             />
+            <Divider />
+            <Typography variant="h6" color="">Feed Description</Typography>
             <FeedEditor 
              editorState={this.state.editorState}
              onChange={this.onChange}
