@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tech-blogger/static/css/main.796edb9e.chunk.css",
-    "main.js": "/tech-blogger/static/js/main.bfd2fbf2.chunk.js",
-    "main.js.map": "/tech-blogger/static/js/main.bfd2fbf2.chunk.js.map",
+    "main.css": "/tech-blogger/static/css/main.d3587a01.chunk.css",
+    "main.js": "/tech-blogger/static/js/main.8eb95c43.chunk.js",
+    "main.js.map": "/tech-blogger/static/js/main.8eb95c43.chunk.js.map",
     "runtime-main.js": "/tech-blogger/static/js/runtime-main.f18cf033.js",
     "runtime-main.js.map": "/tech-blogger/static/js/runtime-main.f18cf033.js.map",
-    "static/css/2.4cac4a78.chunk.css": "/tech-blogger/static/css/2.4cac4a78.chunk.css",
-    "static/js/2.c7c0ffcc.chunk.js": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js",
-    "static/js/2.c7c0ffcc.chunk.js.map": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.map",
+    "static/css/2.e9144a6c.chunk.css": "/tech-blogger/static/css/2.e9144a6c.chunk.css",
+    "static/js/2.90f34675.chunk.js": "/tech-blogger/static/js/2.90f34675.chunk.js",
+    "static/js/2.90f34675.chunk.js.map": "/tech-blogger/static/js/2.90f34675.chunk.js.map",
     "index.html": "/tech-blogger/index.html",
-    "precache-manifest.6ca2cd211cc9902d6eda267f5ba4bd8a.js": "/tech-blogger/precache-manifest.6ca2cd211cc9902d6eda267f5ba4bd8a.js",
+    "precache-manifest.7daebdf302471d575102a220283832fb.js": "/tech-blogger/precache-manifest.7daebdf302471d575102a220283832fb.js",
     "service-worker.js": "/tech-blogger/service-worker.js",
-    "static/css/2.4cac4a78.chunk.css.map": "/tech-blogger/static/css/2.4cac4a78.chunk.css.map",
-    "static/css/main.796edb9e.chunk.css.map": "/tech-blogger/static/css/main.796edb9e.chunk.css.map",
-    "static/js/2.c7c0ffcc.chunk.js.LICENSE.txt": "/tech-blogger/static/js/2.c7c0ffcc.chunk.js.LICENSE.txt"
+    "static/css/2.e9144a6c.chunk.css.map": "/tech-blogger/static/css/2.e9144a6c.chunk.css.map",
+    "static/css/main.d3587a01.chunk.css.map": "/tech-blogger/static/css/main.d3587a01.chunk.css.map",
+    "static/js/2.90f34675.chunk.js.LICENSE.txt": "/tech-blogger/static/js/2.90f34675.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f18cf033.js",
-    "static/css/2.4cac4a78.chunk.css",
-    "static/js/2.c7c0ffcc.chunk.js",
-    "static/css/main.796edb9e.chunk.css",
-    "static/js/main.bfd2fbf2.chunk.js"
+    "static/css/2.e9144a6c.chunk.css",
+    "static/js/2.90f34675.chunk.js",
+    "static/css/main.d3587a01.chunk.css",
+    "static/js/main.8eb95c43.chunk.js"
   ]
 }
