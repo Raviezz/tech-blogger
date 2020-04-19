@@ -1,0 +1,9 @@
+.buttonRichEditor-activeButton{
+    transition-duration: 0.4s;
+   
+    text-decoration: none;
+    border: none;
+    background-image: linear-gradient(to bottom left, #38ef7d, #11998e);
+    color: white;}
+
+

@@ -2,3 +2,15 @@
     background-color: #38ef7d;
     background-image: linear-gradient(to bottom left, #38ef7d, #11998e);
 }
+
+.button-blogger {
+    text-decoration: none;
+    background-color: #38ef7d;
+    background-image: linear-gradient(to bottom left, #38ef7d, #11998e);
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+  .btn-place{
+      margin-top: 10px;
+      margin-left: 10px;
+  }

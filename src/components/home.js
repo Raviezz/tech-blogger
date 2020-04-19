@@ -1,9 +1,14 @@
 import React from 'react';
 import {Sidenav, Nav,Navbar,PanelGroup,Icon,Container,Sidebar,Header,Content,Divider,Panel} from 'rsuite';
-import '../styles/home.css';
 import DisplayFeeds from './display-feeds';
 import {BrowserRouter as Router,Switch, Route} from 'react-router-dom';
 import Feed from './feed';
+import LayoutTextFields from './create-feed';
+import {Link} from 'react-router-dom';
+import Button from '@material-ui/core/Button';
+import '../styles/home.css';
+import { createMuiTheme } from '@material-ui/core/styles';
+
 
 
 const headerStyles = {
@@ -12,7 +17,8 @@ const headerStyles = {
     height: 56,
     whiteSpace: 'nowrap',
     overflow: 'hidden',
-
+    color: "#004d40",
+    backgroundColor: "#004d40"
   };
   
   const iconStyles = {
@@ -58,21 +64,30 @@ export default class HomePage extends React.Component {
     return (
       <div className="show-fake-browser sidebar-page">
         <Container>
+        <Router>
         <Container>
+        
             <Header>
-              <h2>BLOGGER</h2>
+            <div className={"btn-place"}>
+            <Button variant="contained" href='/' className={"button-blogger"}
+              >
+              BLOGGER
+            </Button> </div>  
+            
             </Header>
+            
             <Divider />
             
              
             <Content style={contentStyle}>
-            <Router>
+           
               <Switch>
+                <Route path='/create' exact component={LayoutTextFields} />
               <Route path='/feed/:id' exact component={Feed}  />
               <Route path='/'  component={DisplayFeeds}  />
              
               </Switch>
-              </Router>
+             
             </Content>
            
           </Container>
@@ -97,16 +112,18 @@ export default class HomePage extends React.Component {
                   <Nav.Item eventKey="1" icon={<Icon icon="dashboard" />}>
                     HOME
                   </Nav.Item>
+                  <Link to={'/create'}>
                   <Nav.Item eventKey="2" icon={<Icon icon="group" />}>
                    My Blogs
                   </Nav.Item>
+                  </Link>
                 </Nav>
               </Sidenav.Body>
             </Sidenav>
             <NavToggle expand={expand} onChange={this.handleToggle} />
           </Sidebar>
 
-          
+          </Router>
         </Container>
       </div>
     );
