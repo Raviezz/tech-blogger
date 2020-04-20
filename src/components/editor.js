@@ -9,7 +9,7 @@ import {
   Editor, 
   EditorState,
   RichUtils,
-  convertToRaw
+  convertToRaw,
 } from 'draft-js';
 import { green } from '@material-ui/core/colors';
 import '../styles/feed-editor.css';
@@ -38,14 +38,16 @@ const MAX_LENGTH = 10;
 
         onChange = (editorState) => {
           const contentState = editorState.getCurrentContent();
-          console.log('content state', convertToRaw(contentState));
+          //console.log('content state', convertToRaw(contentState));
            this.saveContent(contentState);
+          
           this.setState({editorState});
         }
 
 
 
         saveContent = debounce((content) => {
+          this.props.data.changeDesc(JSON.stringify((convertToRaw(content))));
 window.localStorage.setItem('content',JSON.stringify((convertToRaw(content))));
         }, 1000);
 
