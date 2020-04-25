@@ -8,6 +8,9 @@ import {Link} from 'react-router-dom';
 import Button from '@material-ui/core/Button';
 import '../styles/home.css';
 import { createMuiTheme } from '@material-ui/core/styles';
+import FeedDashboard from './expansionPanel';
+import Intro from './intro';
+import dashboard from '../resources/dashboard.json';
 
 
 
@@ -54,6 +57,13 @@ export default class HomePage extends React.Component {
     };
     this.handleToggle = this.handleToggle.bind(this);
   }
+  
+
+  async componentDidMount() {
+    const dashboardData= await fetch("http://35.202.53.168/technical-blog/v1/getdashboard");
+    
+    console.log("dash ",dashboardData)
+  }
   handleToggle() {
     this.setState({
       expand: !this.state.expand
@@ -78,13 +88,13 @@ export default class HomePage extends React.Component {
             
             <Divider />
             
-             
+            <Intro />
             <Content style={contentStyle}>
            
               <Switch>
                 <Route path='/create' exact component={LayoutTextFields} />
               <Route path='/feed/:id' exact component={Feed}  />
-              <Route path='/'  component={DisplayFeeds}  />
+              <Route path='/'  component={FeedDashboard}  />
              
               </Switch>
              

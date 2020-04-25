@@ -1,0 +1,131 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "feed_id": 6,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        },
+        {
+            "feed_id": 3,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        },
+        {
+            "feed_id": 4,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        },
+        {
+            "feed_id": 5,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        },
+        {
+            "feed_id": 1,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        },
+        {
+            "feed_id": 2,
+            "feed_category_data": {
+                "feed_category_id": 1,
+                "feed_category_name": "DEVOPS"
+            },
+            "feed_data_json": {
+                "feed_title": "HI whats olasdfjlsd",
+                "feed_body": "LOL dsfjksd;lkfj;",
+                "feed_meta_tags": [
+                    "m1"
+                ]
+            },
+            "user_profile_data": {
+                "user_id": 1,
+                "fname": "Sriram",
+                "lname": "Arvind",
+                "user_headline": "Just An Author",
+                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+            }
+        }
+    ]
+}
