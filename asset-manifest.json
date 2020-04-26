@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/tech-blogger/static/css/main.c03b34c8.chunk.css",
-    "main.js": "/tech-blogger/static/js/main.ff1b18ee.chunk.js",
-    "main.js.map": "/tech-blogger/static/js/main.ff1b18ee.chunk.js.map",
+    "main.js": "/tech-blogger/static/js/main.4f47268f.chunk.js",
+    "main.js.map": "/tech-blogger/static/js/main.4f47268f.chunk.js.map",
     "runtime-main.js": "/tech-blogger/static/js/runtime-main.f18cf033.js",
     "runtime-main.js.map": "/tech-blogger/static/js/runtime-main.f18cf033.js.map",
     "static/css/2.e9144a6c.chunk.css": "/tech-blogger/static/css/2.e9144a6c.chunk.css",
-    "static/js/2.4ad5ce56.chunk.js": "/tech-blogger/static/js/2.4ad5ce56.chunk.js",
-    "static/js/2.4ad5ce56.chunk.js.map": "/tech-blogger/static/js/2.4ad5ce56.chunk.js.map",
+    "static/js/2.231c2d98.chunk.js": "/tech-blogger/static/js/2.231c2d98.chunk.js",
+    "static/js/2.231c2d98.chunk.js.map": "/tech-blogger/static/js/2.231c2d98.chunk.js.map",
     "index.html": "/tech-blogger/index.html",
-    "precache-manifest.b0b8a571da0d959f3bfd8daaf99f43d4.js": "/tech-blogger/precache-manifest.b0b8a571da0d959f3bfd8daaf99f43d4.js",
+    "precache-manifest.e80f8a7277e47c0d3c83ee033f933525.js": "/tech-blogger/precache-manifest.e80f8a7277e47c0d3c83ee033f933525.js",
     "service-worker.js": "/tech-blogger/service-worker.js",
     "static/css/2.e9144a6c.chunk.css.map": "/tech-blogger/static/css/2.e9144a6c.chunk.css.map",
     "static/css/main.c03b34c8.chunk.css.map": "/tech-blogger/static/css/main.c03b34c8.chunk.css.map",
-    "static/js/2.4ad5ce56.chunk.js.LICENSE.txt": "/tech-blogger/static/js/2.4ad5ce56.chunk.js.LICENSE.txt"
+    "static/js/2.231c2d98.chunk.js.LICENSE.txt": "/tech-blogger/static/js/2.231c2d98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f18cf033.js",
     "static/css/2.e9144a6c.chunk.css",
-    "static/js/2.4ad5ce56.chunk.js",
+    "static/js/2.231c2d98.chunk.js",
     "static/css/main.c03b34c8.chunk.css",
-    "static/js/main.ff1b18ee.chunk.js"
+    "static/js/main.4f47268f.chunk.js"
   ]
 }
