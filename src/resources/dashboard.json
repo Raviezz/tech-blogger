@@ -1,131 +1,128 @@
-{
-    "status": "success",
-    "data": [
-        {
-            "feed_id": 6,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
+[
+    {
+       "feed_id":6,
+       "feed_category_data":{
+          "feed_category_id":1,
+          "feed_category_name":"DEVOPS"
+       },
+       "feed_data_json":{
+          "feed_title":"How does kubernetes work in the GCP",
+          "feed_body":"Kubernetes is a container orchestration framework...",
+          "feed_meta_tags":[
+             "cloud"
+          ]
+       },
+       "user_profile_data":{
+          "user_id":1,
+          "fname":"Sriram",
+          "lname":"Arvind",
+          "user_headline":"Just An Author",
+          "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+       }
+    },
+    {
+       "feed_id":7,
+       "feed_category_data":{
+          "feed_category_id":1,
+          "feed_category_name":"Spring boot"
+       },
+       "feed_data_json":{
+          "feed_title":"Elastic Search Spring boot",
+          "feed_body":"Spring boot elastic search plugin..",
+          "feed_meta_tags":[
+             "Indexing"
+          ]
+       },
+       "user_profile_data":{
+          "user_id":1,
+          "fname":"Raghu",
+          "lname":"Getty",
+          "user_headline":"Just An Author",
+          "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+       }
+    },
+    {
+       "feed_id":8,
+       "feed_category_data":{
+          "feed_category_id":1,
+          "feed_category_name":"DEVOPS"
+       },
+       "feed_data_json":{
+          "feed_title":"Build a Docker image for an Angular project",
+          "feed_body":"Docker is an encapsulation to program runtime..",
+          "feed_meta_tags":[
+             "DockerCompose"
+          ]
+       },
+       "user_profile_data":{
+          "user_id":1,
+          "fname":"Ravi",
+          "lname":"teja",
+          "user_headline":"Just An Author",
+          "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+       }
+    },
+    {
+        "feed_id":6,
+        "feed_category_data":{
+           "feed_category_id":1,
+           "feed_category_name":"DEVOPS"
         },
-        {
-            "feed_id": 3,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
+        "feed_data_json":{
+           "feed_title":"How does kubernetes work in the GCP",
+           "feed_body":"Kubernetes is a container orchestration framework...",
+           "feed_meta_tags":[
+              "cloud"
+           ]
         },
-        {
-            "feed_id": 4,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
-        },
-        {
-            "feed_id": 5,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
-        },
-        {
-            "feed_id": 1,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
-        },
-        {
-            "feed_id": 2,
-            "feed_category_data": {
-                "feed_category_id": 1,
-                "feed_category_name": "DEVOPS"
-            },
-            "feed_data_json": {
-                "feed_title": "HI whats olasdfjlsd",
-                "feed_body": "LOL dsfjksd;lkfj;",
-                "feed_meta_tags": [
-                    "m1"
-                ]
-            },
-            "user_profile_data": {
-                "user_id": 1,
-                "fname": "Sriram",
-                "lname": "Arvind",
-                "user_headline": "Just An Author",
-                "user_profile_image_url": "hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
-            }
+        "user_profile_data":{
+           "user_id":1,
+           "fname":"Sriram",
+           "lname":"Arvind",
+           "user_headline":"Just An Author",
+           "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
         }
-    ]
-}
+     },
+     {
+        "feed_id":7,
+        "feed_category_data":{
+           "feed_category_id":1,
+           "feed_category_name":"Spring boot"
+        },
+        "feed_data_json":{
+           "feed_title":"Elastic Search Spring boot",
+           "feed_body":"Spring boot elastic search plugin..",
+           "feed_meta_tags":[
+              "Indexing"
+           ]
+        },
+        "user_profile_data":{
+           "user_id":1,
+           "fname":"Raghu",
+           "lname":"Getty",
+           "user_headline":"Just An Author",
+           "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+        }
+     },
+     {
+        "feed_id":8,
+        "feed_category_data":{
+           "feed_category_id":1,
+           "feed_category_name":"DEVOPS"
+        },
+        "feed_data_json":{
+           "feed_title":"Build a Docker image for an Angular project",
+           "feed_body":"Docker is an encapsulation to program runtime..",
+           "feed_meta_tags":[
+              "DockerCompose"
+           ]
+        },
+        "user_profile_data":{
+           "user_id":1,
+           "fname":"Ravi",
+           "lname":"teja",
+           "user_headline":"Just An Author",
+           "user_profile_image_url":"hhttps://www.saraswatiias.com/wp-content/uploads/2018/11/dummy-profile-pic-male1.jpg"
+        }
+     }
+ ]

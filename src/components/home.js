@@ -10,7 +10,7 @@ import '../styles/home.css';
 import { createMuiTheme } from '@material-ui/core/styles';
 import FeedDashboard from './expansionPanel';
 import Intro from './intro';
-import dashboard from '../resources/dashboard.json';
+import axios from 'axios';
 
 
 
@@ -60,9 +60,11 @@ export default class HomePage extends React.Component {
   
 
   async componentDidMount() {
-    const dashboardData= await fetch("http://35.202.53.168/technical-blog/v1/getdashboard");
-    
-    console.log("dash ",dashboardData)
+  /*   axios.get(`http://35.202.53.168/technical-blog/v1/getdashboard`)
+      .then(res => {
+        console.log("dash ",res.data)
+      }) */ 
+   
   }
   handleToggle() {
     this.setState({
